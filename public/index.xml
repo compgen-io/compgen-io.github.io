@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>compgen.io :: computational genomics</title>
+    <link>http://compgen.io/</link>
+    <description>Recent content on compgen.io :: computational genomics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Dec 2015 00:54:57 -0500</lastBuildDate>
+    <atom:link href="http://compgen.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact me</title>
+      <link>http://compgen.io/contact/</link>
+      <pubDate>Tue, 15 Dec 2015 00:54:57 -0500</pubDate>
+      
+      <guid>http://compgen.io/contact/</guid>
+      <description>&lt;p&gt;Marcus R. Breese, PhD&lt;br /&gt;
+Staff Scientist&lt;br /&gt;
+&lt;a href=&#34;http://sweetcorderolab.stanford.edu&#34;&gt;Sweet-Cordero Lab&lt;/a&gt;&lt;br /&gt;
+Dept. of Pediatrics, Hematology/Oncology&lt;br /&gt;
+&lt;a href=&#34;http://med.stanford.edu&#34;&gt;Stanford University School of Medicine&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;mbreese@stanford.edu&lt;br /&gt;
+mbreese@compgen.io&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Current projects</title>
+      <link>http://compgen.io/projects/</link>
+      <pubDate>Tue, 15 Dec 2015 00:54:49 -0500</pubDate>
+      
+      <guid>http://compgen.io/projects/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;NGS data analysis&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ngsutilsj - Updated NGS data processing (Java, under active development)&lt;/li&gt;
+&lt;li&gt;NGSUtils - NGS data processing (Python, no new development)&lt;/li&gt;
+&lt;li&gt;SQZ - Efficient and secure NGS sequencing data format&lt;/li&gt;
+&lt;li&gt;cgsplice - Splicing related tools&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Data analysis pipelines&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;cgpipe - Language for defining and running pipelines on HPC clusters&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Misc. other projects&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Basespace-download - download files / samples from Illumina&amp;rsquo;s Basespace&lt;/li&gt;
+&lt;li&gt;SJQ - Simple job queue embedded in cgpipe&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
